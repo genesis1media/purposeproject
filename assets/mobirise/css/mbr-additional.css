@@ -683,6 +683,9 @@ h6,
 #msg-box8-q p {
   color: #fff;
 }
+#msg-box8-q .mbr-section-title {
+  font-size: 48px;
+}
 #contacts1-o P {
   font-size: 12px;
   font-family: 'Oxygen', sans-serif;
