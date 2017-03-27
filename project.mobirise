@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -58,7 +58,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/17505881-10104878221876172-1518066193-n-2000x1781.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -158,7 +158,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Purpose Project</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"true\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-u\">BOOKING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -168,14 +168,14 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "49",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -230,7 +230,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "#Healing #Vision #Legacy",
           "meta": ""
@@ -294,11 +294,15 @@
             }
           },
           "title": "Making &nbsp;Today Count",
-          "text": "New book by author &amp; speaker, Ebby Johnson. <b>Making Today Count </b>provides dail y inspirations&nbsp;to provoke&nbsp;thought, healing, and purposeful living. Purchase your copy at&nbsp;the link below.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "text": "New book by author &amp; speaker, Ebby Johnson. <b>Making Today Count </b>provides dail y inspirations&nbsp;to provoke&nbsp;thought, healing, and purposeful living. <br>Purchase your copy at&nbsp;the link below.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -318,7 +322,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -455,13 +459,13 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-h",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "37",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -470,7 +474,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -503,6 +507,63 @@
             },
             "H3": {
               "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-u",
+          "_params": {
+            "imageSize": "37",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Book Ebby J for Speaking Engagements",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Booking</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           }
         },
@@ -608,23 +669,37 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-i",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "VISION CASTING SEMINARS",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -632,16 +707,22 @@
               "color": "#fff"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-price-figure": {
               "font-size": "48px"
             },
             ".mbr-plan-title": {
-              "font-size": "20px"
+              "font-size": "30px"
             },
             ".mbr-plan-subtitle": {
               "font-size": "13px"
+            },
+            "UL": {
+              "font-size": "15px"
             }
           },
           "_tags": [
@@ -652,18 +733,18 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#2969b0",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#00a885",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
@@ -672,7 +753,7 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "VISION CASTING SEMINARS",
+          "title": "",
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
           "title1": "INDIVIDUAL",
@@ -705,7 +786,7 @@
           "title4": "Power Sessions",
           "subtitle4": "Consultations - Includes a Complimentary 20 minute Meeting Prep via Phone",
           "currency4": "",
-          "price4": "Price List Below",
+          "price4": "",
           "period4": "",
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">1 Hour Session - $79</span><br></ul><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1.5 Hour Session - $99</li><li class=\"list-group-item\">2 Hour Session - $129</li><li class=\"list-group-item\">2.5 Hour Session $159</li><li class=\"list-group-item\">3 Hour Session- $199</li></ul>",
@@ -793,7 +874,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Purpose Project</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"true\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-u\">BOOKING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -950,7 +1031,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Purpose Project</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"true\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">S&amp;P</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\">MAKING TODAY COUNT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vision Casting.html\">VISION CASTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Empowerment Videos.html\">EMPOWERMENT VIDEOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-u\">BOOKING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-e\">ITINERARY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {

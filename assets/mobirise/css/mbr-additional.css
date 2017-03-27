@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -494,6 +495,10 @@ h6,
 }
 #msg-box5-6 H3 {
   font-size: 32px;
+  text-align: center;
+}
+#msg-box5-6 P {
+  text-align: left;
 }
 #msg-box8-e .mbr-section-title,
 #msg-box8-e p {
@@ -516,6 +521,12 @@ h6,
 #msg-box5-h H3 {
   text-align: left;
 }
+#msg-box5-u H3 {
+  font-size: 32px;
+}
+#msg-box5-u .btn {
+  font-size: 14px;
+}
 #social-buttons4-j .mbr-section-title,
 #social-buttons4-j .btn-social {
   color: #fff;
@@ -529,24 +540,30 @@ h6,
 }
 
 
-#header3-i .mbr-section-title,
-#header3-i .mbr-section-subtitle {
-  text-align: center;
+
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
 }
 #pricing-table1-d .mbr-section__container .mbr-section-title {
   color: #fff;
 }
 #pricing-table1-d .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #pricing-table1-d .mbr-price-figure {
   font-size: 48px;
 }
 #pricing-table1-d .mbr-plan-title {
-  font-size: 20px;
+  font-size: 30px;
 }
 #pricing-table1-d .mbr-plan-subtitle {
   font-size: 13px;
+}
+#pricing-table1-d UL {
+  font-size: 15px;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
